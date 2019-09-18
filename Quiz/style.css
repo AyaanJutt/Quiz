@@ -1,0 +1,17 @@
+html{
+    background-color: rgba(166, 235, 62, 0.774)
+}
+body{
+    margin:0 auto;
+    width:600px;
+    background-color:whitesmoke;
+}
+p, h1{
+    text-align:center;
+}
+p{
+   padding-bottom:20px;
+}
+h1{
+    margin-top:20px;
+}
